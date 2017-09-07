@@ -1,24 +1,7 @@
-# README
+# OSU Planner
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A schedule and planner for OSU students. 
 
-Things you may want to cover:
+* Ruby On Rails version 5.1.2
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Run command 'rails server' to view on Browser
